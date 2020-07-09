@@ -1,6 +1,6 @@
 # Xray-Classification-TensorFlow-Keras
 Process chest x-ray image data, varified and labeled by medical professionals.
-Using TensorFlow and the Keras API, create and validate convolution neural networks that learn to recognize the presence of pnuemonia in the lungs.
+Using TensorFlow and the Keras API, create and validate convolution neural networks that learn to recognize the presence of pneumonia in the lungs.
 
 The purpose of this study is to assist in the use and interpretation of chest X-ray images (anterior-posterior), as well as in the clinical referral and treatment of pediatric pneumonia.
 Pneumonia kills approximately 2 million children under 5 years old every year. It is consistently estimated as the single leading cause of childhood mortality globally.     
