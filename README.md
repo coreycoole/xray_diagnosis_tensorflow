@@ -1,4 +1,4 @@
-# Final-Capstone-TensorFlow-Keras
+# Xray-Classification-TensorFlow-Keras
 Process chest x-ray image data, varified and labeled by medical professionals.
 Using TensorFlow and the Keras API, create and validate convolution neural networks that learn to recognize the presence of pnuemonia in the lungs.
 
